@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+.env
+multiner_workspace/
+*.bin
+*.safetensors
+*.pt
+*.ckpt
+.DS_Store
